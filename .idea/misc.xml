@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/drawable/buttoncolour.xml" value="0.226" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/drawable/edges.xml" value="0.226" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/drawable/gradient_drawable.xml" value="0.226" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/drawable/option_bg.xml" value="0.226" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/drawable/view_bg.xml" value="0.226" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/activity_login.xml" value="0.20742753623188406" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/activity_main.xml" value="0.20742753623188406" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/activity_quiz_page.xml" value="0.20742753623188406" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/fragment_quiz_page.xml" value="0.20742753623188406" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/login_tab_fragment.xml" value="0.20742753623188406" />
+        <entry key="..\:/Adarsh/Loginpage-testing-master/app/src/main/res/layout/signup_tab_fragment.xml" value="0.20742753623188406" />
+        <entry key="app/src/main/res/drawable/buttoncolour.xml" value="0.22314814814814815" />
+        <entry key="app/src/main/res/drawable/edges.xml" value="0.22314814814814815" />
+        <entry key="app/src/main/res/drawable/view_bg.xml" value="0.21851851851851853" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22632685570711222" />
+        <entry key="app/src/main/res/layout/login_tab_fragment.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/signup_tab_fragment.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
